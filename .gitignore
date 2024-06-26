@@ -1,0 +1,5 @@
+data/soups/
+data/dataset/json/
+data/matrix/adjacency_matrix.npy
+test.ipynb
+__pycache__/
